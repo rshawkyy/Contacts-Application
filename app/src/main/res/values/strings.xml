@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Contact</string>
+    <string name="name">Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="description">Description</string>
+    <string name="save">Save</string>
+    <string name="rawan_shawky">Rawan Shawky</string>
+    <string name="phone">Phone</string>
+    <string name="my_number">My Number</string>
+    <string name="_0102222222">0102222222</string>
+</resources>
